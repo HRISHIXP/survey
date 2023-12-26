@@ -37,8 +37,6 @@ Start the server
   npm run start
 ```
 
-
-## Author
-
-- [Sohom Mondal](https://github.com/Sohom-Mondal)
+deployment link
+https://survey2.onrender.com
 
